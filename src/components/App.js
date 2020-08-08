@@ -174,7 +174,7 @@ const App = () => {
             <div className="ui raised very padded container segment" style={{marginTop: "10px", width: "930px"}}>
 
                 <GitHubButton data-icon="octicon-star" data-size="large" data-show-count="true"
-                              href="https://github.com/senniksoft/Temperature-Conversion">Giving Star helps your brother :)
+                              href="https://github.com/senniksoft/react-temperature-converter">Giving Star helps your brother :)
                 </GitHubButton>
                 <h2 className="ui header block aligned icon center">
                     <div className="ui pointing below label">
