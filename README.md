@@ -1,12 +1,23 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Temperature converter with geolocation support
 
-## Available Scripts
+https://senniksoft.github.io/Dijkstra-s-algorithm-in-Action-With-RealMap/
 
-In the project directory, you can run:
+# How to Use React Temperature converter app ?
+Please Enable Location Permission in your browser so that app gets your current geolocation's temperature.
+                        Temperature converter which automatically converts between Celsius, Fahrenheit, Kelvin, Rankine and Réaumur.
 
-### `npm start`
+#  Libs used!
+  - Built with [Semantic-ui](https://semantic-ui.com/)!
+  - Javascript Library with [React](https://reactjs.org/)! 
+  - HTML-5!
+  - Current Weather Data by [Open Weather Map Api ](https://home.openweathermap.org/)! 
+  
+#  Features!
+  - Support for Celsius, Fahrenheit, Kelvin, Rankine and Réaumur.
+  - Automatically converts between Celsius, Fahrenheit, Kelvin, Rankine and Réaumur.
+  - Gets your current geolocation's temperature.
 
-## Authors
+## Author
 
 * **Fatih Şennik**
 
