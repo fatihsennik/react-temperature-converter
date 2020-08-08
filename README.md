@@ -6,6 +6,11 @@ Online Demo: https://senniksoft.github.io/react-temperature-converter/
 Please Enable Location Permission in your browser so that app gets your current geolocation's temperature.
                         Temperature converter which automatically converts between Celsius, Fahrenheit, Kelvin, Rankine and Réaumur.
 
+#  Demo
+
+![](https://github.com/senniksoft/react-temperature-converter/blob/master/demo.gif)
+
+
 #  Libs used!
   - Built with [Semantic-ui](https://semantic-ui.com/)!
   - Javascript Library with [React](https://reactjs.org/)! 
