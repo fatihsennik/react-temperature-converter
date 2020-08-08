@@ -1,6 +1,6 @@
 # React Temperature converter with geolocation support
 
-https://senniksoft.github.io/Dijkstra-s-algorithm-in-Action-With-RealMap/
+Online Demo: https://senniksoft.github.io/react-temperature-converter/
 
 # How to Use React Temperature converter app ?
 Please Enable Location Permission in your browser so that app gets your current geolocation's temperature.
