@@ -8,7 +8,7 @@ Please Enable Location Permission in your browser so that app gets your current 
 
 #  Demo
 
-![](https://github.com/senniksoft/react-temperature-converter/blob/master/demo.gif)
+![](https://github.com/fatihsennik/react-temperature-converter/blob/master/demo.gif)
 
 
 #  Libs used!
