@@ -1,6 +1,6 @@
 # React Temperature converter with geolocation support
 
-Online Demo: https://senniksoft.github.io/react-temperature-converter/
+Online Demo: https://fatihsennik.github.io/react-temperature-converter/
 
 # How to Use React Temperature converter app ?
 Please Enable Location Permission in your browser so that app gets your current geolocation's temperature.
